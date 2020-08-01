@@ -3050,6 +3050,7 @@ input, select, textarea {
 					#titleBar .title a {
 						border: 0;
 						text-decoration: none;
+                        color: #F6F4ED;
 					}
 
 				#titleBar .toggle {
